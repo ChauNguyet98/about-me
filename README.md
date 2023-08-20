@@ -1,4 +1,4 @@
-# Forest's Resume v2.0.0
+# Resume v2.0.0
 
 A HTML and CSS based project for building a dynamic and interactive resume.
 
